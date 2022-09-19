@@ -1,8 +1,0 @@
-#List 1
-List1 = ['cat', 'dog', 'rat']
-#list 2
-List2 = ['tiger', 'fox']
-# appending wild_animals list to animals
-List1.append(List2)
-print('Updated  list: ', List1)
-# List2 unaffected, only List1 updted
